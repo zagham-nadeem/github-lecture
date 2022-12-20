@@ -1,0 +1,13 @@
+/*--------------------
+Description: Evora - Real Estate CMS
+Author: Evora
+Author URI: https://wicombit.com
+--------------------*/
+
+@import url('./colors.css');
+@import url('./responsive.css');
+@import url('./theme.css');
+@import url('./uikit.min.css');
+@import url('./fontawesome.min.css');
+@import url('./daterangepicker.css');
+@import url('./nice-select.min.css');

@@ -1,0 +1,301 @@
+/*--------------------
+Description: Evora - Real Estate CMS
+Author: Evora
+Author URI: https://wicombit.com
+--------------------*/
+
+.ev-listing-widget .ev-other-features .uk-accordion-title::after{
+    margin-right: 0 !important;
+    margin-left: 5px !important;
+}
+
+.ev-other-features .uk-accordion-title::after{
+    margin-left: 0;
+    margin-right: 10px !important;
+    float: right !important;
+}
+
+.ev-contact-item .ev-icon{
+    font-size: 30px;
+}
+
+.ev-blog-2 .uk-cover-container{
+    border-radius: 0 8px 8px 0 !important;
+}
+
+.ev-contact-1 .uk-checkbox{
+    margin-right: 0 !important;
+    margin-left: 6px !important;
+}
+
+.ev-notify{
+    border-left: 0 !important;
+    border-right: 5px solid !important;
+}
+
+.ev-listing-widget .uk-checkbox{
+    margin-right: 0 !important;
+    margin-left: 6px;
+}
+
+.ev-single-property .ev-details .ev-meta li img{
+    margin-right: 0 !important;
+    margin-left: 8px;
+}
+
+.uk-breadcrumb>:nth-child(n+2):not(.uk-first-column)::before{
+    content: "\f100" !important;
+}
+
+.uk-modal.uk-open{
+    overflow: hidden;
+}
+
+.ev-other-features .uk-checkbox{
+	margin-right: 0;
+	margin-left: 8px !important;
+}
+
+.ev-card-1 .ev-meta{
+	font-weight: 700 !important;
+}
+
+.ev-card-2 .ev-meta{
+	font-weight: 700 !important;
+}
+
+.uk-card-badge{
+	left: inherit !important;
+	right: 30px !important;
+}
+
+.ev-footer .ev-widgets .ev-icon{
+	margin-right: 0;
+}
+
+.ev-footer .ev-widgets .ev-icon{
+	margin-right: 0;
+	margin-left: 6px !important;
+}
+
+.uk-cover{
+    right: 50% !important;
+}
+
+.ev-card-2 .uk-cover-container{
+	border-radius: 0 8px 8px 0 !important;
+}
+
+.ev-card-2 .uk-card-body{
+	padding-left: 0 !important;
+	padding-right: 25px !important;
+}
+
+.ev-card-1 .ev-price small{
+	margin-left: 6px !important;
+	margin-right: 6px !important;
+}
+
+.ev-card-2 .ev-price small{
+	margin-left: 6px !important;
+	margin-right: 6px !important;
+}
+
+.ev-card-1 .ev-info>*{
+    padding-right: 0 !important;
+    padding-left: 10px !important;	
+}
+
+.ev-slide-2 .ev-slide-content label{
+    left: inherit !important;
+    right: 19px;
+}
+
+* + h1, * + .uk-h1, * + h2, * + .uk-h2, * + h3, * + .uk-h3, * + h4, * + .uk-h4, * + h5, * + .uk-h5, * + h6, * + .uk-h6, * + .uk-heading-small, * + .uk-heading-medium, * + .uk-heading-large, * + .uk-heading-xlarge, * + .uk-heading-2xlarge{
+	letter-spacing: 0 !important;
+}
+
+.uk-navbar-center:not(:only-child){
+	transform: translate(-50%,-50%) !important;
+}
+
+.uk-navbar-left{
+	margin-right: 0 !important;
+	margin-left: auto !important;
+}
+
+.uk-navbar-right{
+	margin-left: 0 !important;
+	margin-right: auto !important;
+}
+
+.uk-subnav-divider > ::before{
+    margin-left: 20px !important;
+    margin-right: 0 !important;
+}
+
+.ev-slide-2 .ev-slide-content .ev-status{
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+.ev-blog-widget .ev-categories a:before{
+    margin-left: 12px;
+    margin-right: 0 !important;
+}
+
+.ev-slide-item .uk-subnav > *, .ev-single-post .uk-subnav > *{
+    padding-left: 20px !important;
+    padding-right: 0 !important;
+}
+
+.uk-subnav > *{
+	padding-left: 0 !important;
+	padding-right: 20px !important;
+}
+
+.uk-margin-medium-right{
+	margin-left: 40px!important;
+	margin-right: 0!important;
+}
+
+.uk-margin-medium-left{
+	margin-right: 40px!important;
+	margin-left: 0!important;
+}
+
+.uk-margin-small-right{
+	margin-left: 6px!important;
+	margin-right: 0!important;
+}
+
+.uk-margin-small-left{
+	margin-right: 6px!important;
+	margin-left: 0!important;
+}
+
+.uk-flex-left {
+    justify-content: flex-start !important;
+}
+
+.uk-flex-right {
+    justify-content: flex-end !important;
+}
+
+.uk-button{
+    font-weight: 600 !important;
+}
+
+[class*='uk-modal-close-']{
+    right: inherit !important;
+    left: 10px !important;
+}
+
+.uk-alert p{
+    font-weight: 700 !important;
+}
+
+.uk-alert-close{
+    left: 15px !important;
+    right: inherit !important;
+}
+
+.ev-single-property .ev-details .ev-price span{
+    margin-left: 0 !important;
+    margin-right: 6px !important;
+}
+
+.resp-sharing-button i{
+    margin-left: 5px;
+    margin-right: 0;
+}
+
+.ev-badge i{
+    margin-right: 0 !important;
+    margin-left: 6px;
+}
+
+.ev-actions .uk-icon{
+
+    margin-right: 0 !important;
+    margin-left: 4px;
+}
+
+.fa-angle-right:before {
+    content: "\f104" !important;
+}
+
+@media (min-width: 640px) {
+    .uk-flex-left\@s {
+        justify-content:flex-start !important;
+    }
+
+    .uk-flex-right\@s {
+        justify-content: flex-end !important;
+    }
+
+    .uk-text-left\@s{
+        text-align: right !important;
+    }
+
+    .uk-text-right\@s{
+        text-align: left !important;
+    }
+
+}
+
+@media (min-width: 960px) {
+    .uk-flex-left\@m {
+        justify-content:flex-start !important;
+    }
+
+    .uk-flex-right\@m {
+        justify-content: flex-end !important;
+    }
+
+    .uk-text-left\@m{
+        text-align: right !important;
+    }
+
+    .uk-text-right\@m{
+        text-align: left !important;
+    }
+}
+
+@media (min-width: 1200px) {
+    .uk-flex-left\@l {
+        justify-content:flex-start !important;
+    }
+
+    .uk-flex-right\@l {
+        justify-content: flex-end !important;
+    }
+
+    .uk-text-left\@l{
+        text-align: right !important;
+    }
+
+    .uk-text-right\@l{
+        text-align: left !important;
+    }
+
+}
+
+@media (min-width: 1600px) {
+    .uk-flex-left\@xl {
+        justify-content:flex-start !important;
+    }
+
+    .uk-flex-right\@xl {
+        justify-content: flex-end !important;
+    }
+
+    .uk-text-left\@xl{
+        text-align: right !important;
+    }
+
+    .uk-text-right\@xl{
+        text-align: left !important;
+    }
+
+}
